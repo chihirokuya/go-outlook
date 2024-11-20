@@ -1,4 +1,4 @@
-module github.com/matt-rickard/go-outlook
+module github.com/chihirokuya/go-outlook
 
 go 1.21.1
 
